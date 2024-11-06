@@ -50,25 +50,31 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   Select Data Range, Choose where to place the pivot table (a new worksheet or in the existing worksheet)
   Build customize and format the table
   
-Summarize the Total Number of Customers by region and  pie chart representation
+Summarize the Total Number of Customers by region and  Bar chart representation
 
-![Image_alt](
-![Image_alt](
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/4A1.JPG)
+
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/4A2.JPG)
 
  Summarize the Most popular Subscription and pie chart representation
  
-![Image_alt](
-![Image_alt](
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/3a.JPG)
+
+
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/3b.JPG)
 
 
 Summarize The Total Revenue by Subscription type and pie chart representation
-![Image_alt](
-![Image_alt](
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/1a.JPG )
+
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/1b.JPG)
+
 
 Summarize The Total Revenue by month and pie chart representation
 
-![Image_alt](
-![Image_alt](
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/2a.JPG)
+
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/2b.JPG)
 
 
 Summarize The Total Revenue by month and pie chart representation
