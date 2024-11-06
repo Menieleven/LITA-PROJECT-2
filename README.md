@@ -37,6 +37,9 @@ this is an open source data downloaded from my dashboard on the LMS learning pla
 Exploratory Data Analysis (EDA) involves investigating and summarizing datasets to discover patterns, trends, relationships, and anomalies, often before applying more complex statistical models.
 EDA involves graphical and statistical techniques, helping analysts understand the data's underlying structure, spot errors, and gain insights that inform decision-making and further analysis.
 
+Pivot tables: Pivot Tables in Excel is an essential part of Exploratory Data Analysis (EDA). Pivot tables help to quickly summarize, analyze, and explore large datasets by organizing and aggregating data in a flexible way, which is key to understanding trends, relationships, and patterns in the data.
+
+
 
 ## STAGE 1: WORKING WITH DATA ON MICROSOFT EXCEL
 At the initial stage of the project, we downloaded the file from CANVAS LMS 
@@ -49,7 +52,9 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   Go to the insert Tab, Click on the pivot  table button to open a dialog box
   Select Data Range, Choose where to place the pivot table (a new worksheet or in the existing worksheet)
   Build customize and format the table
-  
+
+### EXPLORATORY DATA ANALYSIS:
+
 Summarize the Total Number of Customers by region and  Bar chart representation
 
 ![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/4A1.JPG)
@@ -165,10 +170,4 @@ FROM
  CUSTOMERDATA;
 
 ```
-EDA involves the exploring of Data to answer some questions about the Data such as;
-
-
-Pivot tables: the use of Pivot Tables in Excel is an essential part of Exploratory Data Analysis (EDA). Pivot tables help to quickly summarize, analyze, and explore large datasets by organizing and aggregating data in a flexible way, which is key to understanding trends, relationships, and patterns in the data.
-The image below is an example of a pivot table that has categorised the total sum of revenue from each region from a dataset
-
 
