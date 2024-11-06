@@ -53,34 +53,30 @@ then we went ahead with Data Cleaning, Removing Duplicates value
 Summarize the Total Number of Customers by region and  Bar chart representation
 
 ![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/4A1.JPG)
-
 ![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/4A2.JPG)
 
  Summarize the Most popular Subscription and pie chart representation
  
 ![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/3a.JPG)
-
-
 ![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/3b.JPG)
 
 
 Summarize The Total Revenue by Subscription type and pie chart representation
-![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/1a.JPG )
 
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/ee3d1b01a94283c6e50015aa898f8f9f0372b06d/1a.JPG)
 ![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/1b.JPG)
 
 
 Summarize The Total Revenue by month and pie chart representation
 
 ![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/2a.JPG)
-
 ![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/2b.JPG)
 
 
-Summarize The Total Revenue by month and pie chart representation
+Summarize The Total Revenue by Subscription type and Bar chart representation
 
-![Image_alt](
-![Image_alt](
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/5A.JPG)
+![Image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/7a8ac35888449933fc470b87512281cddaff3a00/5B.JPG)
 
 
 # EXPLORATORY DATA ANALYSIS (WITH SQL)
@@ -95,7 +91,6 @@ A. Retrieve the total number of customers from each region.
 SELECT Region, COUNT(CustomerId) AS Total_Customer
 FROM CUSTOMERDATA
 GROUP BY Region;
-
 
 ```
 
