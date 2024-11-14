@@ -1,6 +1,6 @@
 # LITA-PROJECT-2
-LITA PROJECT 2
-This project gives detailed documentation of LITA DATA ANALYSIS Project work2
+CUSTOMER DATA ANALYSIS
+This project gives detailed documentation of  DATA ANALYSIS Project  CUSTOMER DATA
 
 ### PROJECT TITLE: LITA CAPSTONE DATA ANALYSIS FOR CUSTOMER DATA
 ## PROJECT OVERVIEW:
@@ -53,7 +53,7 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   Select Data Range, Choose where to place the pivot table (a new worksheet or in the existing worksheet)
   Build customize and format the table
 
-### EXPLORATORY DATA ANALYSIS USIND MICROSOFT EXCEL:
+### EXPLORATORY DATA ANALYSIS USING MICROSOFT EXCEL:
 
 Summarize the Total Number of Customers by region and  Bar chart representation
 
