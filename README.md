@@ -53,7 +53,7 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   Select Data Range, Choose where to place the pivot table (a new worksheet or in the existing worksheet)
   Build customize and format the table
 
-### EXPLORATORY DATA ANALYSIS:
+### EXPLORATORY DATA ANALYSIS USIND MICROSOFT EXCEL:
 
 Summarize the Total Number of Customers by region and  Bar chart representation
 
@@ -170,6 +170,20 @@ FROM
  CUSTOMERDATA;
 
 ```
+### EXPLORATORY DATA ANALYSIS USING POWERBI
+
+OVERVIEW OF CUSTOMER DATA
+
+![image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/b3955e39f81be8f503b080d0f0881603921f99b9/powebi%201.JPG)
+
+OVERVIEW OF CUSTOMER DATA FOR BASIC SUBSCRIPTION TYPE
+
+![image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/b3955e39f81be8f503b080d0f0881603921f99b9/BASIC%20SUB.JPG) 
+
+OVERVIEW OF CUSTOMER DATA FOR PREMIUM SUBSCRIPTION TYPE
+
+![image_alt](https://github.com/Menieleven/LITA-PROJECT-2/blob/b3955e39f81be8f503b080d0f0881603921f99b9/PREMIUM.JPG)
+
 ### SUMMARY
 The image is a comprehensive data analysis report titled "LITA DATA ANALYSIS - CUSTOMER DATA PROJECT REPORT." It provides various metrics and visualizations related to customer data, including counts, sums, and averages. Key metrics include:
 - **Count of CustomerID:** 33.79K
