@@ -161,7 +161,7 @@ GROUP BY
 ORDER BY 
   cancellation_count DESC
 ```
-H Find the total number of active and canceled subscriptions.
+H. Find the total number of active and canceled subscriptions.
 ```
    SELECT 
   SUM(CASE WHEN SubscriptionType = 'active' THEN 1 ELSE 0 END) AS active_subscriptions,
@@ -194,7 +194,7 @@ The data analysis reveals several insights:
 3. The average subscription duration is 365 days, suggesting annual subscriptions are common.
 4. The average total metric of 1,999 indicates a significant customer base engagement.
 
-### RECOMMENDATION s
+### RECOMMENDATION 
 1. **Focus on the East Region:** Given its high revenue and customer count, further marketing and customer engagement efforts should be concentrated in the East region to maximize growth.
 2. **Enhance Basic Subscription Offerings:** Since the Basic subscription type generates the most revenue, consider enhancing its features or offering additional benefits to retain and attract more customers.
 3. **Investigate Cancellations:** Analyze the reasons behind subscription cancellations in various regions to develop strategies for reducing churn and improving customer retention.
